@@ -6,7 +6,7 @@
 <CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
 <userData>
 <dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
-<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Components">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
 <TreeKeys>
 <v>Source</v>
 <v>Components</v>
@@ -27,12 +27,14 @@
 <v>Odissey1_lib\Odissey1_lib\Source Files</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Odissey1_lib\Odissey1_lib\OffChip_YTest_v0_0">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Odissey1_lib\Odissey1_lib\Comp_DDS24_v0_0\Comp_DDS24_v0_0.cysch">
 <ExpandedNodeIds>
 <v>Odissey1_lib</v>
 <v>Odissey1_lib\Odissey1_lib</v>
+<v>Odissey1_lib\Odissey1_lib\Comp_DDS24_Core_v0_0</v>
 <v>Odissey1_lib\Odissey1_lib\Comp_DDS24_Core_v0_0\Comp_DDS24_Core_v0_0.cysym</v>
 <v>Odissey1_lib\Odissey1_lib\Comp_DDS24_Core_v0_0\Comp_DDS24_Core_v0_0.v</v>
+<v>Odissey1_lib\Odissey1_lib\Comp_DDS24_v0_0</v>
 <v>Odissey1_lib\Odissey1_lib\Comp_DDS24_v0_0\API</v>
 <v>Odissey1_lib\Odissey1_lib\Comp_DDS24_v0_0\API\DDS24_v0_0.c</v>
 <v>Odissey1_lib\Odissey1_lib\Comp_DDS24_v0_0\API\DDS24_v0_0.h</v>
@@ -107,7 +109,17 @@
 <v>Odissey1_lib</v>
 <v>Odissey1_lib\Odissey1_lib</v>
 <v>Odissey1_lib\Odissey1_lib\Comp_DDS24_Core_v0_0</v>
+<v>Odissey1_lib\Odissey1_lib\Comp_DDS24_Core_v0_0\Comp_DDS24_Core_v0_0.cysym</v>
+<v>Odissey1_lib\Odissey1_lib\Comp_DDS24_Core_v0_0\Comp_DDS24_Core_v0_0.v</v>
 <v>Odissey1_lib\Odissey1_lib\Comp_DDS24_v0_0</v>
+<v>Odissey1_lib\Odissey1_lib\Comp_DDS24_v0_0\API</v>
+<v>Odissey1_lib\Odissey1_lib\Comp_DDS24_v0_0\API\DDS24_v0_0.c</v>
+<v>Odissey1_lib\Odissey1_lib\Comp_DDS24_v0_0\API\DDS24_v0_0.h</v>
+<v>Odissey1_lib\Odissey1_lib\Comp_DDS24_v0_0\Custom</v>
+<v>Odissey1_lib\Odissey1_lib\Comp_DDS24_v0_0\Custom\customizer01.cs</v>
+<v>Odissey1_lib\Odissey1_lib\Comp_DDS24_v0_0\Comp_DDS24_v0_0.cysch</v>
+<v>Odissey1_lib\Odissey1_lib\Comp_DDS24_v0_0\Comp_DDS24_v0_0.cysym</v>
+<v>Odissey1_lib\Odissey1_lib\Comp_DDS24_v0_0\Comp_DDS24_v0_0.pdf</v>
 <v>Odissey1_lib\Odissey1_lib\Comp_DDS32_v0_0</v>
 <v>Odissey1_lib\Odissey1_lib\Comp_QuadDecoder_v0_0</v>
 <v>Odissey1_lib\Odissey1_lib\OffChip_CapLarge_v0_0</v>
@@ -149,16 +161,6 @@
 <v>Odissey1_lib\Odissey1_lib\OffChip_RotaryEncoder4_v0_0</v>
 <v>Odissey1_lib\Odissey1_lib\OffChip_RotaryEncoder4_v0_0\OffChip_RotaryEncoder4_v0_0.cysym</v>
 <v>Odissey1_lib\Odissey1_lib\OffChip_SAR_v0_0</v>
-<v>Odissey1_lib\Odissey1_lib\OffChip_SAR_v0_0\OffChip_SAR_v0_0.cysym</v>
-<v>Odissey1_lib\Odissey1_lib\OffChip_Switch_v0_0</v>
-<v>Odissey1_lib\Odissey1_lib\OffChip_Switch_v0_0\OffChip_Switch_v0_0.cysym</v>
-<v>Odissey1_lib\Odissey1_lib\OffChip_TestPointSmall_v0_0</v>
-<v>Odissey1_lib\Odissey1_lib\OffChip_TestPointSmall_v0_0\OffChip_TestPointSmall_v0_0.cysym</v>
-<v>Odissey1_lib\Odissey1_lib\OffChip_VccNamed_v0_0</v>
-<v>Odissey1_lib\Odissey1_lib\OffChip_VccNamed_v0_0\OffChip_VccNamed_v0_0.cysym</v>
-<v>Odissey1_lib\Odissey1_lib\OffChip_XTAL_v0_0</v>
-<v>Odissey1_lib\Odissey1_lib\OffChip_XTAL_v0_0\OffChip_XTAL_v0_0.cysym</v>
-<v>Odissey1_lib\Odissey1_lib\OffChip_YTest_v0_0</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -187,46 +189,25 @@
 </TreeStatesV2>
 </CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
 </dataGuid>
+<dataGuid v="6c335137-fa19-46ce-bc2d-2fbeb6d5f2a2">
+<CyGuid_70084457-cd6a-4593-9ed0-7f6eeb432dc2 type_name="CyDesigner.Common.ProjMgmt.GUI.CyDependenciesCustomData" version="1">
+<dictName v=".\Odissey1_lib.cylib\Odissey1_lib.cyprj">
+<listName />
+</dictName>
+</CyGuid_70084457-cd6a-4593-9ed0-7f6eeb432dc2>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
 </userData>
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
 <OpenDocs>
-<name v=".\Odissey1_lib.cylib\OffChip_RotaryEncoder1_v0_0\OffChip_RotaryEncoder1_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_RotaryEncoder2_v0_0\OffChip_RotaryEncoder2_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_RotaryEncoder3_v0_0\OffChip_RotaryEncoder3_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_RotaryEncoder4_v0_0\OffChip_RotaryEncoder4_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\Comp_DDS24_Core_v0_0\Comp_DDS24_Core_v0_0.cysym" />
 <name v=".\Odissey1_lib.cylib\Comp_DDS24_v0_0\Comp_DDS24_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\Comp_DDS24_Core_v0_0\Comp_DDS24_Core_v0_0.v" />
 <name v=".\Odissey1_lib.cylib\Comp_DDS24_v0_0\Comp_DDS24_v0_0.cysch" />
-<name v=".\Odissey1_lib.cylib\Comp_DDS24_v0_0\API\DDS24_v0_0.c" />
-<name v=".\Odissey1_lib.cylib\Comp_DDS24_v0_0\API\DDS24_v0_0.h" />
 <name v=".\Odissey1_lib.cylib\Comp_DDS24_v0_0\Custom\customizer01.cs" />
-<name v=".\Odissey1_lib.cylib\Comp_DDS32_v0_0\Comp_DDS32_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\Comp_DDS32_v0_0\Comp_DDS32_v0_0.v" />
-<name v=".\Odissey1_lib.cylib\Comp_DDS32_v0_0\API\DDS32.c" />
-<name v=".\Odissey1_lib.cylib\Comp_DDS32_v0_0\API\DDS32.h" />
-<name v=".\Odissey1_lib.cylib\OffChip_CapLarge_v0_0\OffChip_CapLarge_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_CapLargeV_v0_0\OffChip_CapLargeV_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_CapSmall_v0_0\OffChip_CapSmall_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_CapSmallV_v0_0\OffChip_CapSmallV_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_DAC_v0_0\OffChip_DAC_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_FBead_v0_0\OffChip_FBead_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_GndNamed_v0_0\OffChip_GndNamed_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_GndSmall_v0_0\OffChip_GndSmall_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_JoinDot_v0_0\OffChip_JoinDot_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_KIT_059_v0_0\OffChip_KIT_059_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_OpAmpSmall_v0_0\OffChip_OpAmpSmall_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_ResistorLarge_v0_0\OffChip_ResistorLarge_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_ResistorLargeV_v0_0\OffChip_ResistorLargeV_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_ResistorSmall_v0_0\OffChip_ResistorSmall_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_ResistorSmallV_v0_0\OffChip_ResistorSmallV_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_SAR_v0_0\OffChip_SAR_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_Switch_v0_0\OffChip_Switch_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_TestPointSmall_v0_0\OffChip_TestPointSmall_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_VccNamed_v0_0\OffChip_VccNamed_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_XTAL_v0_0\OffChip_XTAL_v0_0.cysym" />
-<name v=".\Odissey1_lib.cylib\OffChip_YTest_v0_0\OffChip_YTest_v0_0.cysym" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -234,7 +215,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1541, 761" SelectedTabbedMdiWindow="f2b68a44-5a3e-48c1-a6f0-ccbdb50577ed"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="35842339-ba67-4c17-a56a-431fd05f76fc" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_RotaryEncoder1_v0_0\OffChip_RotaryEncoder1_v0_0.cysym" Guid="a12a6b94-ea32-4f0e-9c81-ac1e1146db87" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_RotaryEncoder2_v0_0\OffChip_RotaryEncoder2_v0_0.cysym" Guid="6feff5a4-9cc6-414c-a63c-616823120874" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_RotaryEncoder3_v0_0\OffChip_RotaryEncoder3_v0_0.cysym" Guid="b4af33b7-f0e2-4cd0-bc2d-96a2ac4caf37" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_RotaryEncoder4_v0_0\OffChip_RotaryEncoder4_v0_0.cysym" Guid="123ab3fa-e6f8-4632-ad1b-0a6fd7875cdd" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\Comp_DDS24_Core_v0_0\Comp_DDS24_Core_v0_0.cysym" Guid="8291c835-d43e-4a60-9c08-c5000be9d686" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\Comp_DDS24_v0_0\Comp_DDS24_v0_0.cysym" Guid="4d174c19-435f-4ced-8782-fbaa4e3f1355" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\Comp_DDS24_Core_v0_0\Comp_DDS24_Core_v0_0.v" Guid="de3f50d6-38a5-434f-9934-13cc22bd59ab" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\Comp_DDS24_v0_0\Comp_DDS24_v0_0.cysch" Guid="e79371da-c4aa-46d8-94f0-c770390bca3c" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\Comp_DDS24_v0_0\API\DDS24_v0_0.c" Guid="34233478-6626-440d-ad19-092e8d77fe5c" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\Comp_DDS24_v0_0\API\DDS24_v0_0.h" Guid="62dac7f5-3ab3-489b-87ac-41f692cfbf63" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\Comp_DDS24_v0_0\Custom\customizer01.cs" Guid="a69559ca-efac-4e81-80e7-d5350fc3e801" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\Comp_DDS32_v0_0\Comp_DDS32_v0_0.cysym" Guid="b383a6f9-a50f-463d-b093-79fe917248ba" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\Comp_DDS32_v0_0\Comp_DDS32_v0_0.v" Guid="6b2f8fc7-ae0e-4c34-81d0-7b0aaba531f3" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\Comp_DDS32_v0_0\API\DDS32.c" Guid="d73e409d-0c96-4d43-9813-1a5d2e260ff9" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\Comp_DDS32_v0_0\API\DDS32.h" Guid="a0a48ac1-a3ee-481d-8e08-f511f87451bc" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_CapLarge_v0_0\OffChip_CapLarge_v0_0.cysym" Guid="7a7c777f-da84-4cf3-8b67-86e653a5d1bf" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_CapLargeV_v0_0\OffChip_CapLargeV_v0_0.cysym" Guid="2f46bf05-841b-453f-b302-ca639fa9aa5e" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_CapSmall_v0_0\OffChip_CapSmall_v0_0.cysym" Guid="7c04e3f2-8553-4fba-a643-f88c72221da4" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_CapSmallV_v0_0\OffChip_CapSmallV_v0_0.cysym" Guid="f6e74977-6673-474d-9adb-14aed5963c4a" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_DAC_v0_0\OffChip_DAC_v0_0.cysym" Guid="91de468d-5840-4069-97ec-3cc6218b1c72" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_FBead_v0_0\OffChip_FBead_v0_0.cysym" Guid="1018fc8c-d038-4847-9564-bf515d762474" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_GndNamed_v0_0\OffChip_GndNamed_v0_0.cysym" Guid="fa795090-b9a8-42ae-bc81-11256e083430" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_GndSmall_v0_0\OffChip_GndSmall_v0_0.cysym" Guid="9572e5cc-c33b-42bf-a279-55fd4ee7bd92" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_JoinDot_v0_0\OffChip_JoinDot_v0_0.cysym" Guid="82a9a114-46b5-43cf-9c6f-fe4fe6c47e37" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_KIT_059_v0_0\OffChip_KIT_059_v0_0.cysym" Guid="98707cc4-0a07-4c43-ae6d-194b66c2bcf3" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_OpAmpSmall_v0_0\OffChip_OpAmpSmall_v0_0.cysym" Guid="8787054f-dac6-47d3-bc23-6577fc598e52" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_ResistorLarge_v0_0\OffChip_ResistorLarge_v0_0.cysym" Guid="6ad973cc-ae32-4984-a2d7-c97eafe2518c" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_ResistorLargeV_v0_0\OffChip_ResistorLargeV_v0_0.cysym" Guid="69d03ca1-8675-49df-94f9-63fab263a064" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_ResistorSmall_v0_0\OffChip_ResistorSmall_v0_0.cysym" Guid="27351b62-323e-4c35-8c52-db4b719edcbb" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_ResistorSmallV_v0_0\OffChip_ResistorSmallV_v0_0.cysym" Guid="019032c8-615a-4420-b17a-655e6c0e9543" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_SAR_v0_0\OffChip_SAR_v0_0.cysym" Guid="c3a5f676-4b2e-4738-ad86-aac115b42982" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_Switch_v0_0\OffChip_Switch_v0_0.cysym" Guid="bb723350-71cb-4a80-93e0-baa433a91421" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_TestPointSmall_v0_0\OffChip_TestPointSmall_v0_0.cysym" Guid="05490c9f-4f1b-4e5d-aa45-1f152a717be9" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_VccNamed_v0_0\OffChip_VccNamed_v0_0.cysym" Guid="e254ceb1-2938-49b2-8f6c-b6aaaa3386fe" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_XTAL_v0_0\OffChip_XTAL_v0_0.cysym" Guid="966f161f-1740-409e-96bf-c82e5c3a1425" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\OffChip_YTest_v0_0\OffChip_YTest_v0_0.cysym" Guid="f2b68a44-5a3e-48c1-a6f0-ccbdb50577ed" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1541, 761" SelectedTabbedMdiWindow="e343f8bf-7c99-40e4-9263-f9ab77933126"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="35842339-ba67-4c17-a56a-431fd05f76fc" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\Comp_DDS24_v0_0\Comp_DDS24_v0_0.cysym" Guid="fd0809d9-d915-4679-8b45-22534a474c88" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\Comp_DDS24_v0_0\Comp_DDS24_v0_0.cysch" Guid="a97de0e3-6215-4126-bc96-3e5422ce942c" /><DocumentWindow Key="E:\cygwin64\home\noel\projects\P5LP\ComponentsAuthoring\Odissey1_lib\Odissey1_lib.cylib\Comp_DDS24_v0_0\Custom\customizer01.cs" Guid="e343f8bf-7c99-40e4-9263-f9ab77933126" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>

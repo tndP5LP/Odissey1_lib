@@ -23,7 +23,7 @@ using CyDesigner.Extensions.Common;
 using CyDesigner.Extensions.Gde;
 
 // The namespace is required to have the same name as the component for a customizer.
-namespace DDS24_v0_0
+namespace Comp_DDS24_v0_0
 {
     
     class CyCustomizer : ICyShapeCustomize_v1
